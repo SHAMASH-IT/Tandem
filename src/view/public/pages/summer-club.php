@@ -625,7 +625,8 @@
                         <div class="content text-center">
                             <h2 class="title" style="text-transform: uppercase;">A propos</h2>
                                 <span class="shape-line"><i class="icon-19"></i></span>
-                            <p style="font-size: 2.5rem; text-align: center !important;" class="shadow p-5 m-5">Un club d'été pour les enfants de 5 à 12 ans, offrant une gamme variée d'activités telles que le théâtre, la robotique, la peinture, les sports, les divertissements, les sorties pédagogiques, ainsi que des sessions interactives en anglais et en français. Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
+                            <p style="font-size: 2.5rem; text-align: center !important;" class="shadow p-5 m-5">
+                            Club d'été Tandem est un club d'été dynamique et amusant qui propose une large gamme d'activités éducatives et divertissantes pour les enfants de 5 à 12 ans. Situé à Tunis, notre club offre un environnement sûr et stimulant où les enfants peuvent s'épanouir, apprendre et se faire de nouveaux amis.. Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
                             
                             </p>
                             <br>
