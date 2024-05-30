@@ -446,7 +446,7 @@
         <div class="sbuttons">
             <a href="https://api.whatsapp.com/send?phone=98336336" target="_blank" class="sbutton whatsapp" tooltip="Whatsapp" title="link whatsapp"><i class="fab fa-whatsapp"></i></a>
             <a href="https://www.instagram.com/tandem_training_center/" target="_blank" class="sbutton instagram" tooltip="Instagram" title="link instagram"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.facebook.com/tandemTC.tn" target="_blank" class="sbutton fb" tooltip="Facebook"><i class="fab fa-facebook-f" title="link facebook"></i></a>
+            <a href="https://www.facebook.com/tandemtrainingcenter" target="_blank" class="sbutton fb" tooltip="Facebook"><i class="fab fa-facebook-f" title="link facebook"></i></a>
             <a href="https://www.linkedin.com/company/tandem-training-center/" target="_blank" class="sbutton linkedin" tooltip="Linkedin" title="link linkedin"><i class="fab fa-linkedin-in"></i></a>
             <a href="https://www.youtube.com/@tandem.tunisie" target="_blank" class="sbutton youtube" tooltip="Youtube" title="link youtube"><i class="fab fa-youtube"></i></a>
         </div>  

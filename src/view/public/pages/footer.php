@@ -63,7 +63,7 @@
                                         <button class="edu-btn btn-medium" type="button" style="width: 100%;margin: 0 !important;">S'inscrire <i class="icon-4"></i></button>
                                     </div>
                                     <ul class="social-share icon-transparent">
-                                        <li><a href="https://www.facebook.com/tandemTC.tn" class="color-fb"><i class="icon-facebook"></i></a></li>
+                                        <li><a href="https://www.facebook.com/tandemtrainingcenter" class="color-fb"><i class="icon-facebook"></i></a></li>
                                         <li><a href="https://www.youtube.com/@tandem.tunisie" class="color-yt"><i class="icon-youtube"></i></a></li>
                                     </ul>
                                 </div>

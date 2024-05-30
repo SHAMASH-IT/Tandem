@@ -86,7 +86,7 @@
                             </li>
                         </ul>
                         <ul class="social-share">
-                            <li><a href="https://www.facebook.com/tandemTC.tn"><i class="icon-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/tandemtrainingcenter"><i class="icon-facebook"></i></a></li>
                             <li><a href="https://www.youtube.com/@tandem.tunisie"><i class="icon-youtube"></i></a></li>
                         </ul>
                     </div>
