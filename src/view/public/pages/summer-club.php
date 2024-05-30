@@ -535,10 +535,8 @@
         }
 
         .mySwiperSumerClub2 {
-            width: 100% !important;
+            width: 993px !important;
             height: min-content !important;
-            margin-right: -2.6%;
-            padding: 0rem 0 0rem 5rem;
             background: #000;
         }
 
@@ -622,105 +620,107 @@
 
     <!-- Start Course Area  -->
     <div class="business-course edu-course-area course-area-12 gap-tb-text bg-image">
-    <div class="container">
-        <div class="row edublink-animated-shape" style="margin-right: 0;">
-            <!-- First Div -->
-            <div class="col-md-4 col-sm-12 sal-animate" data-sal-delay="50" data-sal="slide-up" data-sal-duration="800">
-                <div class="color-primary" style="padding: 50px 30px;">
-                    <div class="content text-center">
-                        <h2 class="title" style="text-transform: uppercase;">A propos</h2>
-                        <span class="shape-line"><i class="icon-19"></i></span>
-                        <p style="font-size: 2.5rem; text-align: left !important;" class="shadow p-5 m-5">
-                            Un club d'été pour les enfants de 5 à 12 ans, offrant une gamme variée d'activités telles que le théâtre, la robotique, la peinture, les sports, les divertissements, les sorties pédagogiques, ainsi que des sessions interactives en anglais et en français.
-                        </p>
-                        <br>
-                        <p style="font-size: 2.5rem; text-align: left !important;" class="shadow p-5 m-5">
-                            Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Second Div -->
-            <div class="col-sm-12 col-md-8">
-                <ul>
-                    <li>
-                        <div class="section-title section-left" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
-                            <h2 class="title" style="text-transform: uppercase;">Pick A TANDEM Summer Club Pack 2024</h2>
-                            <span class="shape-line"><i class="icon-19"></i></span>
-                        </div>
-                    </li>
-                </ul>
-                <div #swiperRef="" class="swiper mySwiperSumerClub2">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/1 - club d'été cover.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/2 - club dété DATES DES SESSIONS.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/3 - club d'été MATIÈRES.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/4 - club dété tarifs.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/5 - club d'été PLANNING A TITRE INDICATIF.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/6 - club dété PLANNING p-1.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/7 - club dété PLANNING p-2.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/8 - club dété PLANNING p-3.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/9 - club dété PLANNING p-4.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/10 - club dété PLANNING p-5.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                        <div class="swiper-slide">
-                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/11 - club dété MENU TANDEM.png" alt="Course Meta">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+        <div class="row">
+                    <div class="color-primary" style="padding: 50px 30px;">
+                        <div class="content text-center">
+                            <h2 class="title" style="text-transform: uppercase;">A propos</h2>
+                                <span class="shape-line"><i class="icon-19"></i></span>
+                            <p style="font-size: 2.5rem; text-align: center !important;" class="shadow p-5 m-5">Un club d'été pour les enfants de 5 à 12 ans, offrant une gamme variée d'activités telles que le théâtre, la robotique, la peinture, les sports, les divertissements, les sorties pédagogiques, ainsi que des sessions interactives en anglais et en français. Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
+                            
+                            </p>
+                            <br>
+                            
                         </div>
                     </div>
-                    <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div>
-                    <div class="swiper-pagination"></div>
+                </div><div class="row edublink-animated-shape" style="margin-right: 0;">
+            <div class="row">
+                    <ul>
+                        <li>
+                            <div class="section-title section-center sal-animate" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                                <h2 class="title" style="text-transform: uppercase;">Pick A TANDEM Summer Club Pack 2024</h2>
+                                <span class="shape-line"><i class="icon-19"></i></span>
+                            </div>
+                        </li>
+                        <!-- <li>
+                            <div class="slider-nav-wrapper" data-sal-delay="150" data-sal="slide-up" data-sal-duration="1200">
+                                <div class="swiper-navigation">
+                                    <div class="swiper-btn-nxt">
+                                        <i class="icon-west"></i>
+                                    </div>
+                                    <div class="swiper-btn-prv">
+                                        <i class="icon-east"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </li> -->
+                    </ul>
+                    <div #swiperref="" class="swiper mySwiperSumerClub2 swiper-initialized swiper-horizontal swiper-pointer-events">
+                        <div class="swiper-wrapper" id="swiper-wrapper-8d810411b723d373b" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-2979px, 0px, 0px);">
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="1 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/1 - club d'été cover.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="2 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/2 - club dété DATES DES SESSIONS.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-prev" style="width: 993px;" role="group" aria-label="3 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/3 - club d'été MATIÈRES.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-active" style="width: 993px;" role="group" aria-label="4 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/4 - club dété tarifs.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-next" style="width: 993px;" role="group" aria-label="5 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/5 - club d'été PLANNING A TITRE INDICATIF.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="6 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/6 - club dété PLANNING p-1.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="7 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/7 - club dété PLANNING p-2.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="8 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/8 - club dété PLANNING p-3.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="9 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/9 - club dété PLANNING p-4.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="10 / 11">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/10 - club dété PLANNING p-5.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="11 / 11" style="width: 993px;">
+                                <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/11 - club dété MENU TANDEM.png" alt="Course Meta">
+                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                            </div>
+                        </div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-8d810411b723d373b" aria-disabled="false"></div>
+                        <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-8d810411b723d373b" aria-disabled="false"></div>
+                        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 4" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 7"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 8"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 9"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 10"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 11"></span></div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 </div>
-            </div>
+            <ul class="shape-group">
+                <li class="shape-2 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+                    <img data-depth="-1.5" src="https://www.tandem-tunisie.com/public/assets/images/others/shape-34.png" alt="Shape" style="transform: translate3d(2.9px, -10.2px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+                </li>
+                <li class="shape-3 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+                    <img data-depth="1.5" src="https://www.tandem-tunisie.com/public/assets/images/counterup/shape-02.png" alt="Shape" style="transform: translate3d(-5.8px, 10.2px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+                </li>
+            </ul>
         </div>
-
         <ul class="shape-group">
-            <li class="shape-2 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
-                <img data-depth="-1.5" src="<?=URL_LINK?>public/assets/images/others/shape-34.png" alt="Shape" style="transform: translate3d(25.2px, 3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
-            </li>
-            <li class="shape-3 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
-                <img data-depth="1.5" src="<?=URL_LINK?>public/assets/images/counterup/shape-02.png" alt="Shape" style="transform: translate3d(-23px, -3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+            <li class="shape-1 sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000">
+                <img src="https://www.tandem-tunisie.com/public/assets/images/others/shape-18.png" alt="Shape">
             </li>
         </ul>
     </div>
-    <ul class="shape-group">
-        <li class="shape-1 sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000">
-            <img src="<?=URL_LINK?>public/assets/images/others/shape-18.png" alt="Shape">
-        </li>
-    </ul>
-</div>
-
     <!-- End Course Area -->
 
     <div class="edu-course-area course-area-7" id="section-2">
@@ -1266,7 +1266,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
     <script>
         var typed = new Typed('.keyboard-writer', {
-            strings: ["Apprendre les langues avec TANDEM"],
+            strings: ["Le meilleur Club d'été pour vos enfants : Tandem Summer Club"],
             typeSpeed: 100,
         });
     </script>
