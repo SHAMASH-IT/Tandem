@@ -622,112 +622,105 @@
 
     <!-- Start Course Area  -->
     <div class="business-course edu-course-area course-area-12 gap-tb-text bg-image">
+    <div class="container">
         <div class="row edublink-animated-shape" style="margin-right: 0;">
-            <div class="row">
-                <div class="col-md-4 col-sm-12 sal-animate" data-sal-delay="50" data-sal="slide-up" data-sal-duration="800">
-                    <div class="color-primary" style="padding: 50px 30px;">
-                        <div class="content text-center">
-                            <h2 class="title" style="font-size: 5rem; text-transform: uppercase;">A propos</h2>
-                                <span class="shape-line"><i class="icon-19"></i></span>
-                            <p style="font-size: 2.5rem; text-align: justify !important;" class="shadow p-5 m-5">
-                                Un club d'été pour les enfants de 5 à 12 ans, offrant une gamme variée d'activités telles que le théâtre, la robotique, la peinture, les sports, les divertissements, les sorties pédagogiques, ainsi que des sessions interactives en anglais et en français.
-                            </p>
-                            <br>
-                            <p style="font-size: 2.5rem; text-align: justify !important;" class="shadow p-5 m-5">
-                            Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-8">
-                    <ul>
-                        <li>
-                            <div class="section-title section-left" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
-                                <h2 class="title" style="font-size: 5rem; text-transform: uppercase;">Pick A TANDEM Summer Club Pack 2024</h2>
-                                <span class="shape-line"><i class="icon-19"></i></span>
-                            </div>
-                        </li>
-                        <!-- <li>
-                            <div class="slider-nav-wrapper" data-sal-delay="150" data-sal="slide-up" data-sal-duration="1200">
-                                <div class="swiper-navigation">
-                                    <div class="swiper-btn-nxt">
-                                        <i class="icon-west"></i>
-                                    </div>
-                                    <div class="swiper-btn-prv">
-                                        <i class="icon-east"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </li> -->
-                    </ul>
-                    <div #swiperRef="" class="swiper mySwiperSumerClub2">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/1 - club d'été cover.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/2 - club dété DATES DES SESSIONS.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/3 - club d'été MATIÈRES.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/4 - club dété tarifs.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/5 - club d'été PLANNING A TITRE INDICATIF.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/6 - club dété PLANNING p-1.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/7 - club dété PLANNING p-2.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/8 - club dété PLANNING p-3.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/9 - club dété PLANNING p-4.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/10 - club dété PLANNING p-5.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                            <div class="swiper-slide">
-                                <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/11 - club dété MENU TANDEM.png" alt="Course Meta">
-                                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                            </div>
-                        </div>
-                        <div class="swiper-button-next"></div>
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-pagination"></div>
+            <!-- First Div -->
+            <div class="col-md-4 col-sm-12 sal-animate" data-sal-delay="50" data-sal="slide-up" data-sal-duration="800">
+                <div class="color-primary" style="padding: 50px 30px;">
+                    <div class="content text-center">
+                        <h2 class="title" style="text-transform: uppercase;">A propos</h2>
+                        <span class="shape-line"><i class="icon-19"></i></span>
+                        <p style="font-size: 2.5rem; text-align: left !important;" class="shadow p-5 m-5">
+                            Un club d'été pour les enfants de 5 à 12 ans, offrant une gamme variée d'activités telles que le théâtre, la robotique, la peinture, les sports, les divertissements, les sorties pédagogiques, ainsi que des sessions interactives en anglais et en français.
+                        </p>
+                        <br>
+                        <p style="font-size: 2.5rem; text-align: left !important;" class="shadow p-5 m-5">
+                            Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
+                        </p>
                     </div>
                 </div>
             </div>
-            <ul class="shape-group">
-                <li class="shape-2 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
-                    <img data-depth="-1.5" src="<?=URL_LINK?>public/assets/images/others/shape-34.png" alt="Shape" style="transform: translate3d(25.2px, 3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
-                </li>
-                <li class="shape-3 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
-                    <img data-depth="1.5" src="<?=URL_LINK?>public/assets/images/counterup/shape-02.png" alt="Shape" style="transform: translate3d(-23px, -3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
-                </li>
-            </ul>
+
+            <!-- Second Div -->
+            <div class="col-sm-12 col-md-8">
+                <ul>
+                    <li>
+                        <div class="section-title section-left" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                            <h2 class="title" style="text-transform: uppercase;">Pick A TANDEM Summer Club Pack 2024</h2>
+                            <span class="shape-line"><i class="icon-19"></i></span>
+                        </div>
+                    </li>
+                </ul>
+                <div #swiperRef="" class="swiper mySwiperSumerClub2">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/1 - club d'été cover.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/2 - club dété DATES DES SESSIONS.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/3 - club d'été MATIÈRES.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/4 - club dété tarifs.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/5 - club d'été PLANNING A TITRE INDICATIF.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/6 - club dété PLANNING p-1.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/7 - club dété PLANNING p-2.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/8 - club dété PLANNING p-3.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/9 - club dété PLANNING p-4.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/10 - club dété PLANNING p-5.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img loading="lazy" src="<?=URL_LINK?>public/assets/images/brochures/summer-club-2/11 - club dété MENU TANDEM.png" alt="Course Meta">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                    </div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
         </div>
+
         <ul class="shape-group">
-            <li class="shape-1 sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000">
-                <img src="<?=URL_LINK?>public/assets/images/others/shape-18.png" alt="Shape">
+            <li class="shape-2 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+                <img data-depth="-1.5" src="<?=URL_LINK?>public/assets/images/others/shape-34.png" alt="Shape" style="transform: translate3d(25.2px, 3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+            </li>
+            <li class="shape-3 scene sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+                <img data-depth="1.5" src="<?=URL_LINK?>public/assets/images/counterup/shape-02.png" alt="Shape" style="transform: translate3d(-23px, -3.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
             </li>
         </ul>
     </div>
+    <ul class="shape-group">
+        <li class="shape-1 sal-animate" data-sal-delay="1000" data-sal="fade" data-sal-duration="1000">
+            <img src="<?=URL_LINK?>public/assets/images/others/shape-18.png" alt="Shape">
+        </li>
+    </ul>
+</div>
+
     <!-- End Course Area -->
 
     <div class="edu-course-area course-area-7" id="section-2">
