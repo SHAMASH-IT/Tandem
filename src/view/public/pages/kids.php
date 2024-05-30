@@ -1,4 +1,8 @@
-<?php require_once 'src/view/public/includes/header.php';?>
+<?php require_once 'src/view/public/includes/header.php';
+
+ $page_title = 'Cours et activités pour les enfants | Tandem Training Centerlabe';
+
+?>
 
     <style>
         @import url('https://fonts.cdnfonts.com/css/blugie');
@@ -239,7 +243,7 @@
             background-color: #3498db !important;
         }
         .price-round {
-            color: color: var(--color-primary) !important;
+            color: var(--color-primary) !important;
         }
 
         .stage {

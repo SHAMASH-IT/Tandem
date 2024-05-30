@@ -1,4 +1,7 @@
-<?php 
+<?php  
+ 
+ $page_title = "Nos conférences | Tandem Training Center";
+
 require_once 'src/view/public/includes/header.php';
 ?>
 

@@ -1,4 +1,6 @@
 <?php
+   
+    $page_title = "Langues pour les entreprises | Tandem Training Center";
     $meta_facebook_image = URL_LINK . "public/assets/images/business-cover/1.jpg";
     $meta_facebook_title = "TANDEM Tunisie Langues pour entreprises et organisations";
     $meta_facebook_description = "Propulsez la réussite de votre équipe avec nos cours de langues adaptés aux entreprises.";

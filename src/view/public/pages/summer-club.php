@@ -1,5 +1,8 @@
 <?php
-    $page_title = "Club d'été";
+   // $page_title = "Club d'été";
+
+    $page_title = "Club d'été | Tandem Training Center";
+    
     $meta_facebook_image = URL_LINK . "public/assets/images/kids/club-summer-2/brochure-club-d'été4-2-1.png";
     $meta_facebook_title = "TANDEM est un avenir meilleur pour les enfants";
     $meta_facebook_description = "Plongez dans une expérience estivale inoubliable qui combine l'apprentissage des langues avec une variété d'activités passionnantes.";
@@ -227,7 +230,7 @@
             background-color: #3498db !important;
         }
         .price-round {
-            color: color: var(--color-primary) !important;
+            color:  var(--color-primary) !important;
         }
 
         .stage {

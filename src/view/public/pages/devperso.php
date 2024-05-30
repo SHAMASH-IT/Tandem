@@ -12,8 +12,9 @@
 //?>
 
 <?php
-
-    require_once 'src/view/public/includes/header.php'; ?>
+    require_once 'src/view/public/includes/header.php'; 
+    $page_title = 'Séminaire & développement personnel | Tandem Training Center';
+    ?>
 
 <style>
     @import url('https://fonts.cdnfonts.com/css/raillinc');

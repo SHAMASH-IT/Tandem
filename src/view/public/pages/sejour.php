@@ -1,4 +1,7 @@
 <?php
+
+    $page_title = "Séjour linguistique | Tandem Training Center";
+
     $meta_facebook_image = URL_LINK . "public/assets/images/brochures/séjour-l'inguistique/cover.jpg";
     $meta_facebook_title = "TANDEM SÉJOUR L'INGUISTIQUE";
     $meta_facebook_description = "Les programmes de résidence linguistique offrent des expériences d'immersion linguistique innovantes soigneusement conçues pour enrichir l'apprentissage des langues grâce à une immersion culturelle profonde.";
