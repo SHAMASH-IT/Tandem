@@ -419,7 +419,7 @@
 
         <div class="sbuttons">
             <a href="https://www.instagram.com/tandem_training_center/" target="_blank" class="sbutton instagram" tooltip="Instagram"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.facebook.com/tandemTC.tn" target="_blank" class="sbutton fb" tooltip="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.facebook.com/tandemtrainingcenter" target="_blank" class="sbutton fb" tooltip="Facebook"><i class="fab fa-facebook-f"></i></a>
             <a href="https://www.linkedin.com/company/tandem-training-center/" target="_blank" class="sbutton linkedin" tooltip="Linkedin"><i class="fab fa-linkedin-in"></i></a>
             <a href="https://www.youtube.com/@tandem.tunisie" target="_blank" class="sbutton youtube" tooltip="Youtube"><i class="fab fa-youtube"></i></a>
         </div>  

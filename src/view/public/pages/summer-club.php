@@ -999,7 +999,7 @@
                     <div class="edu-event-list event-list-3 bg-style-extra02">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="https://www.facebook.com/tandemTC.tn/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">
+                                <a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">
                                     <img src="<?=URL_LINK?>public/assets/images/event/event-04.jpg" alt="Event Images">
                                 </a>
                             </div>
@@ -1007,11 +1007,11 @@
                                 <ul class="event-meta">
                                     <li><i class="icon-27"></i>July 24, 2023</li>
                                 </ul>
-                                <h4 class="title"><a href="https://www.facebook.com/tandemTC.tn/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">Tandem Atelier de Robotique</a></h4>
+                                <h4 class="title"><a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">Tandem Atelier de Robotique</a></h4>
                                 <span class="event-location"><i class="icon-40"></i>TANDEM, Tunis</span>
                                 <p>Lorem ipsum dolor sit amet consectur adipisicing elit.</p>
                                 <div class="read-more-btn">
-                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemTC.tn/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">Attend <i class="icon-4"></i></a>
+                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0jfirouaumY7v6haXEf1qFJE9Bm59G7QxyVswUPpZcC3LSNS3m2sZ32SDDULpteWhl">Attend <i class="icon-4"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1023,7 +1023,7 @@
                     <div class="edu-event-list event-list-3 bg-style-secondary">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="https://www.facebook.com/tandemTC.tn/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">
+                                <a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">
                                     <img src="<?=URL_LINK?>public/assets/images/event/event-club-2023.jpg" alt="Event Images" width="190" height="270">
                                 </a>
                             </div>
@@ -1031,11 +1031,11 @@
                                 <ul class="event-meta">
                                     <li><i class="icon-27"></i>July 05, 2023</li>
                                 </ul>
-                                <h4 class="title"><a href="https://www.facebook.com/tandemTC.tn/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">TANDEM Club d'été 2023</a></h4>
+                                <h4 class="title"><a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">TANDEM Club d'été 2023</a></h4>
                                 <span class="event-location"><i class="icon-40"></i>TANDEM, Tunis</span>
                                 <p>Lorem ipsum dolor sit amet consectur adipisicing elit.</p>
                                 <div class="read-more-btn">
-                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemTC.tn/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">Attend <i class="icon-4"></i></a>
+                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid0Qk3xEtk8jDtPWTHQBKj9yWB1Xb9kvYUtd8qkT5qAALcCngZ1xWVDptPTwsABeDdFl">Attend <i class="icon-4"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1047,7 +1047,7 @@
                     <div class="edu-event-list event-list-3 bg-style-extra05">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="https://www.facebook.com/tandemTC.tn/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">
+                                <a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">
                                     <img src="<?=URL_LINK?>public/assets/images/event/event-peintures.jpg" alt="Event Images" width="190" height="270">
                                 </a>
                             </div>
@@ -1055,11 +1055,11 @@
                                 <ul class="event-meta">
                                     <li><i class="icon-27"></i>July 12, 2023</li>
                                 </ul>
-                                <h4 class="title"><a href="https://www.facebook.com/tandemTC.tn/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">Tandem Peinture</a></h4>
+                                <h4 class="title"><a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">Tandem Peinture</a></h4>
                                 <span class="event-location"><i class="icon-40"></i>TANDEM, Tunis</span>
                                 <p>Lorem ipsum dolor sit amet consectur adipisicing elit.</p>
                                 <div class="read-more-btn">
-                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemTC.tn/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">Attend <i class="icon-4"></i></a>
+                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02rJo7g4EyvndtRN24HaEJ7xdieJc222PHRapF5Uc6LdenKghQG3YaPGTFvhK8rGpzl">Attend <i class="icon-4"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1071,7 +1071,7 @@
                     <div class="edu-event-list event-list-3 bg-style-primary">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="https://www.facebook.com/tandemTC.tn/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">
+                                <a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">
                                     <img src="<?=URL_LINK?>public/assets/images/event/event-07.jpg" alt="Event Images">
                                 </a>
                             </div>
@@ -1079,11 +1079,11 @@
                                 <ul class="event-meta">
                                     <li><i class="icon-27"></i>July 07, 2023</li>
                                 </ul>
-                                <h4 class="title"><a href="https://www.facebook.com/tandemTC.tn/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">TANDEM Clubs</a></h4>
+                                <h4 class="title"><a href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">TANDEM Clubs</a></h4>
                                 <span class="event-location"><i class="icon-40"></i>TANDEM, Tunis</span>
                                 <p>Lorem ipsum dolor sit amet consectur adipisicing elit.</p>
                                 <div class="read-more-btn">
-                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemTC.tn/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">Attend <i class="icon-4"></i></a>
+                                    <a class="edu-btn btn-medium curved-medium" href="https://www.facebook.com/tandemtrainingcenter/posts/pfbid02tz6MTV7bukPpVtLjX2jyFkPe9ceCSKe5Y1moSDA4UrvfVJXKkzNjotd1Ju5r6tUDl">Attend <i class="icon-4"></i></a>
                                 </div>
                             </div>
                         </div>
