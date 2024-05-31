@@ -586,7 +586,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="banner-content">
-                        <h1 class="title keyboard-writer text-white" data-sal-delay="100" data-sal="slide-up" data-sal-duration="1000" style="filter: drop-shadow(2px 4px 6px black);"></h1>
+                        <h1 class="title keyboard-writer text-white" data-sal-delay="100" data-sal="slide-up" data-sal-duration="500" style="filter: drop-shadow(2px 4px 6px black);"></h1>
 
                         <div class="thumbnail thumbnail-1" data-sal-delay="500" data-sal="slide-up" data-sal-duration="1000">
                             <img src="<?=URL_LINK?>public/assets/images/kids/club-summer-2/logo-club-d'été.png" width="800"/>
@@ -668,7 +668,7 @@
                                         <i class="icon-east"></i>
                                     </div>
                                 </div>
-                            </div>
+                            </div>:
                         </li> -->
                     </ul>
                     <div #swiperref="" class="swiper mySwiperSumerClub2 swiper-initialized swiper-horizontal swiper-pointer-events">
