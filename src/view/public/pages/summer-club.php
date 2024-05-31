@@ -1284,7 +1284,7 @@
     <script>
         var typed = new Typed('.keyboard-writer', {
             strings: ["Le meilleur Club d'été pour vos enfants : Tandem Summer Club"],
-            typeSpeed: 100,
+            typeSpeed: 50,
         });
     </script>
 
