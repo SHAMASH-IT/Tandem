@@ -21,6 +21,15 @@
             50% { -webkit-filter: blur(5px);}
             100% { -webkit-filter: blur(0px);}
         }
+        .responsive-text {
+            font-size: 2.5rem; /* Default font size for desktop */
+        }
+
+        .swiper-slide-2 {
+            
+            height: 700px;
+            
+        }
 
         .thumbnail-2{
 
@@ -201,6 +210,14 @@
                 flex-wrap: wrap;
                 gap: 0;
             }
+            .responsive-text {
+                font-size: 1.2rem; /* Adjust the font size for mobile devices */
+            }
+            .swiper-slide-2 {
+            
+            height: 400px;
+            
+        }
         }
         .about-style-3 .about-image-gallery .main-img-2.en{
             right: unset;
@@ -447,7 +464,6 @@
         .swiper-slide {
             text-align: center;
             font-size: 18px;
-            height: 700px;
             width: unset;
             background: #fff;
             display: flex;
@@ -625,7 +641,7 @@
                         <div class="content text-center">
                             <h2 class="title" style="text-transform: uppercase;">A propos</h2>
                                 <span class="shape-line"><i class="icon-19"></i></span>
-                            <p style="font-size: 2.5rem; text-align: center !important;" class="shadow p-5 m-5">
+                            <p  style="text-align: center !important;" class="responsive-text shadow p-5 m-5">
                             Club d'été Tandem est un club d'été dynamique et amusant qui propose une large gamme d'activités éducatives et divertissantes pour les enfants de 5 à 12 ans. Situé à Tunis, notre club offre un environnement sûr et stimulant où les enfants peuvent s'épanouir, apprendre et se faire de nouveaux amis.. Ces langues seront intégrées dans les activités pour une immersion linguistique enrichissante, permettant aux enfants de pratiquer et d'améliorer leurs compétences linguistiques tout en s'amusant.
                             
                             </p>
@@ -657,47 +673,47 @@
                     </ul>
                     <div #swiperref="" class="swiper mySwiperSumerClub2 swiper-initialized swiper-horizontal swiper-pointer-events">
                         <div class="swiper-wrapper" id="swiper-wrapper-8d810411b723d373b" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-2979px, 0px, 0px);">
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="1 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="1 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/1 - club d'été cover.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="2 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="2 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/2 - club dété DATES DES SESSIONS.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide swiper-slide-prev" style="width: 993px;" role="group" aria-label="3 / 11">
+                            <div class="swiper-slide swipper-slide-2 swiper-slide-prev" style="width: 993px;" role="group" aria-label="3 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/3 - club d'été MATIÈRES.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide swiper-slide-active" style="width: 993px;" role="group" aria-label="4 / 11">
+                            <div class="swiper-slide swipper-slide-2 swiper-slide-active" style="width: 993px;" role="group" aria-label="4 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/4 - club dété tarifs.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide swiper-slide-next" style="width: 993px;" role="group" aria-label="5 / 11">
+                            <div class="swiper-slide swipper-slide-2 swiper-slide-next" style="width: 993px;" role="group" aria-label="5 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/5 - club d'été PLANNING A TITRE INDICATIF.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="6 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="6 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/6 - club dété PLANNING p-1.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="7 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="7 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/7 - club dété PLANNING p-2.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="8 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="8 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/8 - club dété PLANNING p-3.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="9 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="9 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/9 - club dété PLANNING p-4.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" style="width: 993px;" role="group" aria-label="10 / 11">
+                            <div class="swiper-slide swipper-slide-2" style="width: 993px;" role="group" aria-label="10 / 11">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/10 - club dété PLANNING p-5.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
-                            <div class="swiper-slide" role="group" aria-label="11 / 11" style="width: 993px;">
+                            <div class="swiper-slide swipper-slide-2" role="group" aria-label="11 / 11" style="width: 993px;">
                                 <img loading="lazy" src="https://www.tandem-tunisie.com/public/assets/images/brochures/summer-club-2/11 - club dété MENU TANDEM.png" alt="Course Meta">
                                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                             </div>
