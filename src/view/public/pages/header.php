@@ -31,6 +31,12 @@
 
     
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css" rel="stylesheet">  
+
+    <!-- Google Tag Manager -->
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TRTMT36Z');</script>
+<!-- End Google Tag Manager -->
+
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="<?=URL_LINK?>public/assets/css/app.css">
 
@@ -397,7 +403,11 @@
 </head>
 
 <body class="sticky-header ">
-    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="
+https://www.googletagmanager.com/ns.html?id=GTM-TRTMT36Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <!--[if lte IE 9]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   	<![endif]-->
