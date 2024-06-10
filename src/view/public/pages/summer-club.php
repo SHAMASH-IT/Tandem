@@ -37,7 +37,7 @@ HTML;
 // Output the HTML with placeholders
 echo <<<HTML
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     $head_content
 </head>
