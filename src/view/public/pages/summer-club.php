@@ -25,11 +25,12 @@ HTML;
 // Your PHP code continues here
 
 // Placeholder for body content
-$body_content = '<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="
-https://www.googletagmanager.com/ns.html?id=GTM-TRTMT36Z"
+$body_content = <<<HTML
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRTMT36Z"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->';
+<!-- End Google Tag Manager (noscript) -->
+HTML;
 
 // Your PHP code continues here
 
@@ -38,9 +39,6 @@ echo <<<HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
     $head_content
 </head>
 <body>
