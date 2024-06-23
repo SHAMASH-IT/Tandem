@@ -2,7 +2,7 @@
    // $page_title = "Club d'été";
 
     $page_title = "Club d'été | Tandem Training Center";
-    $metaDescription = "Club d'été Tandem : un été inoubliable pour vos enfants à Tunis ! Activités éducatives et divertissantes pour les 5-12 ans. Théâtre, robotique, peinture, sports, anglais, français et bien plus encore !";
+    $metaDescription = "Club d'été Tandem : un été inoubliable pour vos enfants ! Activités éducatives et divertissantes pour les 5-12 ans. Théâtre, robotique, peinture, sports, anglais, français et bien plus encore !";
     $meta_facebook_image = URL_LINK . "public/assets/images/kids/club-summer-2/brochure-club-d'été4-2-1.png";
     $meta_facebook_title = "TANDEM est un avenir meilleur pour les enfants";
     $meta_facebook_description = "Plongez dans une expérience estivale inoubliable qui combine l'apprentissage des langues avec une variété d'activités passionnantes.";
