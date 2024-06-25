@@ -1,4 +1,9 @@
-<?php require_once 'src/view/public/includes/header.php';?>
+<?php 
+
+$page_title = "TESOL TEFL/TESOL Certification";
+
+
+require_once 'src/view/public/includes/header.php';?>
 
     <style>
         .cadre {
